@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siphiwe Bogatsu"
+title                    : "Siphiwe's Homepage"
 title_separator          : "-"
 name                     : &name "Siphiwe"
 description              : &description "personal description"
