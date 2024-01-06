@@ -19,5 +19,5 @@ redirect_from:
 
 # Community Contributions 
 
-To actively enrich the data science community, I maintain a Medium channel dedicated to showcasing compelling data storytelling content about South Africa 🌇:.
+To actively enrich the data science community, I maintain a [Medium](https://siphiwebogatsu.medium.com/) channel dedicated to showcasing compelling data storytelling content about South Africa 🌇.
 
