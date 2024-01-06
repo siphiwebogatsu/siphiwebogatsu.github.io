@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /siphiwebogatsu.github.io
 title: "About 📌:"
 excerpt: "About me"
 author_profile: true
