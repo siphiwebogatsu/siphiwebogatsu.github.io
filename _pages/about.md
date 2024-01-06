@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-:necktie: I am currently studying an MPhil specializing in Financial Technology at UCT.
+👔: I am currently studying an MPhil specializing in Financial Technology at UCT.
 
-:dart: Research interests are spatial statistics, supervised learning and personal and digital finance. 
+🎯: Research interests are spatial statistics, supervised learning and personal and digital finance. 
 
-:art: On my spare time, I tutor undergrad economics and statistics to first-year students in Cape Town. 
+🎨: On my spare time, I tutor undergrad economics and statistics to first-year students in Cape Town. 
 
 
 
