@@ -6,7 +6,7 @@ collection: portfolio
 
 
 The goal of this project was to predict the value of the Unified Parkinson Disease Rating Scale (UPDRS) measurement for patients with early-stage Parkinson’s
-disease, using data recorded via a telemonitoring device for remote symptom progression monitoring and allowing medical staff to obtain speech recordings captured in the patients’ homes. This measure is often used to track the disease’s progression. To note, the data I used was first presented and analysed by Tsanas et al. (2009). 
+disease, using data recorded via a telemonitoring device for remote symptom progression monitoring and allowing medical staff to obtain speech recordings captured in the patients’ homes. This measure is often used to track the disease’s progression. To note, the data I used was first presented and analysed by [Tsanas et al. (2009)](/files/Tsanas et al.pdf). 
 
 The following models were used to predict the total UPDRS score, and compared against each other on their performance using out-of-sample Root Mean Square Error (RMSE):
 - A regularised linear model.
