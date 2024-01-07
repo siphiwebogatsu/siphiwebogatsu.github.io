@@ -14,7 +14,7 @@ The following models were used to predict the total UPDRS score, and compared ag
 - XGBoost Model.
 - Polynomial Regression Model.
 
-[An xgb hyperparameter combinations](/images/xgb.png)
+![An xgb hyperparameter combinations](/images/xgb.png)
 
 The XGBoost model demonstrated exceptional performance with the lowest out-of-sample RMSE. When pitted against models from our Analytics Honours classmates, our XGBoost model not only excelled but secured a position among the Top 8 best predicting models for UPDRS, as determined by the RMSE metric. 
 
