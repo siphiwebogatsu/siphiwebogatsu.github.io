@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![A handpalm with a tree growing on top of it](A handpalm with a tree growing on top of it.webp){: .align-right width="400px"}
+![A handpalm with a tree growing on top of it](A handpalm with a tree growing on top of it.webp){: .align-right width="300px"}
 👔: I am currently studying an MPhil specializing in Financial Technology at UCT.
 
 🎯: Research interests are spatial statistics, supervised learning and personal and digital finance. 
