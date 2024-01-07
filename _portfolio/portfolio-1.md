@@ -1,6 +1,6 @@
 ---
 title: "UPDRS"
-excerpt: "Predicting UPDRS measurement for patients with early-stage Parkinson’s disease. <br/><img src='/images/UPDRS.png'>"
+excerpt: "Predicting UPDRS measurement for patients with early-stage Parkinson’s disease. <br/><img src='/images/UPDRS.jpeg'>"
 collection: portfolio
 ---
 
