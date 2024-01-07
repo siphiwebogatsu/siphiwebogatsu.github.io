@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "UPDRS"
+excerpt: "Predicting UPDRS measurement for patients with early-stage Parkinson’s disease. <br/><img src='/images/UPDRS.png'>"
 collection: portfolio
 ---
 
