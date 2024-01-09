@@ -4,4 +4,6 @@ excerpt: "Empowering Philippi Township: Bridging Academia and Entrepreneurship t
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We crafted an innovative solution as a multidisciplinary team for our esteemed project partner, UCT GSB Solution Space. Our mission was to forge shared value in a community of 200,000 individuals and uplift its local entrepreneurs. In a landscape where existing efforts fall short of creating lasting impact, our creative product emerged as a beacon of sustainable change.
+
+Explore the comprehensive documentation of our design journey and the impactful implementation of our solution [here](https://drive.google.com/file/d/1Ruvutw_tEmB-eHPldYEiaHhzgelmQnpq/view?usp=sharing).
