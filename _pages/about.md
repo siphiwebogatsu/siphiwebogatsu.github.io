@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Silvermine Nature Reserve](/images/silvermine.png){: .align-right width="240px"}
+![Silvermine Nature Reserve](/images/silvermine.jpeg){: .align-right width="240px"}
 👔: I am currently an MPhil specializing in Financial Technology candidate.
 
 🎯: Research interests are spatial statistics, supervised learning and personal and digital finance. 
