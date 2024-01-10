@@ -16,7 +16,7 @@ This project centers around the development of a neural network for species clas
 
 In conclusion, the project emphasizes the importance of thoughtful activation function selection and regularization for neural network performance. Insights gained from response curve analysis can guide further model refinement and exploration.
 
-Find the code [here](Wildlife Rehab Centre Project.Rmd)
+Find the code [here](https://github.com/siphiwebogatsu/NN-scratch./blob/main/Wildlife%20Rehab%20Centre%20Project.Rmd)
 
 This project was done in collaboration. 
 
