@@ -14,5 +14,4 @@ redirect_from:
 
 🎨: On my spare time, I love hiking 🥾 and then a glass of Devil's Peak beer 🍺 with friends. My favorite is Silvermine Nature Reserve. 
 
-![Silvermine Nature Reserve](/images/silvermine.jpg)
-
+<br/><img src='/images/silvermine.jpg'>
