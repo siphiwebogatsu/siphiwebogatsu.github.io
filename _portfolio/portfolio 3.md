@@ -1,6 +1,6 @@
 ---
 title: "Neural Network Classification Scheme"
-excerpt: "Implementing neural network from scratch to predict Hawks bird species based on wing size and weight for a wildlife rehabilitation centre, based at historic Spier Wine Farm <br/><img src='/images/eagle.jpg'>"
+excerpt: "Implementing neural network from scratch to predict Hawks bird species based on wing size and weight for a wildlife rehabilitation centre, based at historic Spier Wine Farm. <br/><img src='/images/eagle.jpg'>"
 collection: portfolio
 ---
 This project centers around the development of a neural network for species classification based on bird biometric features—specifically, weight and wing size. The neural network architecture includes two input nodes, one hidden layer with eight nodes, and three output nodes representing one-hot encoded species. The primary goal is to predict species based on the given features.
