@@ -14,3 +14,6 @@ redirect_from:
 
 🎨: On my spare time, I love hiking 🥾 and then a glass of Devil's Peak beer 🍺 with friends. My favorite is Silvermine Nature Reserve. 
 
+## Community Contributions 
+✍️ To sharpen my writing abilities, I create data stories about South Africa on my [Medium](https://medium.com/@lenstwist) channel.
+
