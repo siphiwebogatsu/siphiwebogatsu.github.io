@@ -4,7 +4,7 @@ excerpt: "Web scraping and wrangling of KFC store locations in R. <br/><img src=
 collection: portfolio
 ---
 
-This project was done while I was a freelance data analyst for a fintech company in Cape Town, 22Seven (subsdiary of Old Mutual). They are a personal digitial finance business that empowers customers to make better financial decisions and helps customers create personalised budgets to enable them to manage their money better from month to month, using an app. 
+This project was done while I was a freelance data analyst for a fintech company in Cape Town, [22Seven](https://www.22seven.com) (backed by Old Mutual). They are a personal digitial finance business that empowers customers to make better financial decisions and helps customers create personalised budgets to enable them to manage their money better from month to month, using an app. 
 
 The objective of this project was to automate the extraction of KFC store locations in South Africa from the KFC website. It utilizes web scraping techniques through Selenium and data manipulation using Pandas to organize the information systematically.
 
@@ -15,7 +15,7 @@ The script begins by loading postal code data from an Excel file (*postalcodes.x
 
 2. Web Scraping with Selenium:
 
-Utilizes Chrome WebDriver to navigate to the KFC South Africa store locator [webpage](https://order.kfc.co.za/find-store). Iterates through each town, searching for KFC stores and extracting relevant information. The script employs explicit waits (time.sleep(2)) to ensure the webpage fully loads before extracting data.
+Utilizes Chrome WebDriver to navigate to the KFC South Africa store locator [webpage](https://order.kfc.co.za/find-store). Iterates through each town, searching for KFC stores and extracting relevant information. The script employs explicit waits (*time.sleep(2)*) to ensure the webpage fully loads before extracting data.
 
 3. Data Cleaning and Deduplication:
 
@@ -41,7 +41,9 @@ Selenium: Employed for web scraping and automated interaction with the KFC store
 
 **Additional Considerations:**
 
-The script requires the Chrome WebDriver (chromedriver.exe), and the path must be specified, and ensure the Excel file (*postalcodes.xls*) is present and accessible in the specified location.
+The script requires the Chrome WebDriver (*chromedriver.exe*), and the path must be specified, and ensure the Excel file (*postalcodes.xls*) is present and accessible in the specified location.
+
+Find the code [here](https://github.com/siphiwebogatsu/web-scraping)
 
 *MEGA gratitude towards Simon Anderssen for taking a chance with me.*
 
