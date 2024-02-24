@@ -15,7 +15,7 @@ The script begins by loading postal code data from an Excel file (*postalcodes.x
 
 2. Web Scraping with Selenium:
 
-Utilizes Chrome WebDriver to navigate to the KFC South Africa store locator [webpage] (https://order.kfc.co.za/find-store). Iterates through each town, searching for KFC stores and extracting relevant information. The script employs explicit waits (time.sleep(2)) to ensure the webpage fully loads before extracting data.
+Utilizes Chrome WebDriver to navigate to the KFC South Africa store locator [webpage](https://order.kfc.co.za/find-store). Iterates through each town, searching for KFC stores and extracting relevant information. The script employs explicit waits (time.sleep(2)) to ensure the webpage fully loads before extracting data.
 
 3. Data Cleaning and Deduplication:
 
