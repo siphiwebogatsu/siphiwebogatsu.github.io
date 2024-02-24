@@ -1,6 +1,6 @@
 ---
 title: "KFC Store Locator Automation"
-excerpt: "Web scraping and wrangling of KFC store locations in R. <br/><img src='/images/UPDRS.jpeg'>"
+excerpt: "Web scraping and wrangling of KFC store locations in R. <br/><img src='/images/OIP.jpg'>"
 collection: portfolio
 ---
 
