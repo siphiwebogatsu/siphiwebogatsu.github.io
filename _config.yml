@@ -86,10 +86,10 @@ author:
   avatar           : "Profile Photo.jpg"
   bio              : "Data Analyst"
   location         : "Cape Town"
-  employer         :  "University of Cape Town"
+  employer         :  "UCT Financial Innovation Hub"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :  s.bogatsu18@hotmail.com
+  email            : s.bogatsu18@hotmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
