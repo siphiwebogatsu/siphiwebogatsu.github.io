@@ -1,7 +1,7 @@
 ---
 title: "ARIMA Forecasting Bitcoin Weekly Returns"
-excerpt: "Time series analysis on crypto coin returns in R. <br/><img src='/images/bITC.jpg'>"
+excerpt: "Time series analysis on crypto coin returns in R. <br/><img src='/images/bitcoin returns.png'>"
 collection: portfolio
 ---
 
-Find the analysis here
+Find the thorough [analysis](https://github.com/siphiwebogatsu/NN-scratch./blob/main/Suhail.R)
