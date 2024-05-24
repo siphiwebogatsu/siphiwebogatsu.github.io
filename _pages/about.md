@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About 📌:"
+title: "Siphiwe Bogatsu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 ![Silvermine Nature Reserve](/images/silvermine.jpg){: .align-right width="240px"}
 👔: I am currently an MPhil specializing in Financial Technology candidate, under the UCT Financial Innovation Hub. 
 
